@@ -3,7 +3,7 @@
 Repository for the integrative activity of the Probability and
 Statistics course taken in the Winter-2024 semester.
 
-_Will probably choose Normal Distribution?_
+_Will probably choose Normal Distribution or Gumbel or Laplace?_
 
 ## Useful Stuff
 - [Veritassium Video](https://www.youtube.com/watch?v=A5w-dEgIU1M&)
