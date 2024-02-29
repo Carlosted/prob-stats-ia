@@ -16,3 +16,7 @@ _Will probably choose Normal Distribution or Gumbel or Laplace?_
 - [3B1B Convolutions](https://youtu.be/IaSGqQa5O-M?si=B0uel4--lpEOa98u)
 - [Double Factorials CLT](https://youtu.be/oPQ4mNcqY7k?si=M7vUKXY7VUE96HX9)
 - [Uniform -> Normal Transform](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform)
+
+__Central Limit Theorem Material:__
+- [Comprehensive Proof Using MGFs](https://www.cs.toronto.edu/~yuvalf/CLT.pdf)
+- [Via Maximal Entropy](https://mathoverflow.net/questions/182752/central-limit-theorem-via-maximal-entropy)
