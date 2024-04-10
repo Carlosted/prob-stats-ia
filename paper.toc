@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Context of Gumbel Distribution}{3}{}%
+\contentsline {section}{\numberline {2}Density and Distribution Functions}{4}{}%
+\contentsline {section}{\numberline {3}Expected Value and Variance}{5}{}%
+\contentsline {section}{\numberline {4}Moment Generating Function}{10}{}%
+\contentsline {section}{\numberline {5}Properties}{11}{}%
+\contentsline {section}{\numberline {6}Applications}{14}{}%
+\contentsline {section}{\numberline {7}Logistic Distribution}{14}{}%
+\contentsline {subsection}{\numberline {7.1}Specification}{16}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Cumulative Distribution Function}{16}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Probability Density Function}{16}{}%
+\contentsline {subsubsection}{\numberline {7.1.3}Symmetry}{17}{}%
+\contentsline {subsubsection}{\numberline {7.1.4}Expected Value}{18}{}%
+\contentsline {subsubsection}{\numberline {7.1.5}Mode}{18}{}%
+\contentsline {subsubsection}{\numberline {7.1.6}Quantile Function}{20}{}%
+\contentsline {subsubsection}{\numberline {7.1.7}Median}{20}{}%
+\contentsline {section}{\numberline {8}Appendix}{21}{}%
+\contentsline {section}{\numberline {9}Bibliography}{21}{}%

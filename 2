@@ -1,0 +1,25 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib.patches import Polygon
+
+fig, ax = plt.subplots()
+x = np.linspace(0.5, 6, 200)
+ax.plot(x, 1 / x, label='y = 1/x')
+ax.set_xlim(0, 5.5)
+
+for i in range(1, 5): 
+    poly = Polygon([[i, 0], [i, 1/i], [i+1, 1/(i)], [i+1, 0]], closed=True, facecolor='1', edgecolor='0.5')
+    ax.add_patch(poly)
+
+ux = np.linspace(1, 5, 200)
+under_graph_verts = [(1, 0), *zip(ux, 1 / ux), (5, 0)]
+poly = Polygon(under_graph_verts, closed=True, facecolor='#D67B7BB0', edgecolor='r')
+ax.add_patch(poly)
+
+ax.annotate(r'$\ln(x)$', xy=(1, 0.4), xytext=(0.2, 0.6), fontsize=12,
+            arrowprops=dict(color='#D67B7B', width=0.5, headwidth=6, shrink=0.05))
+ax.annotate(r'$\frac{1}{x}$', xy=(3, 0.5), xytext=(4, 0.6), fontsize=16,
+            arrowprops=dict(color='black', width=0.5, headwidth=6, shrink=0.05, relpos=(0.5, 1)))
+
+plt.show()
+
